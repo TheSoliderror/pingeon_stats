@@ -1,4 +1,4 @@
-package serverlist
+package stats
 
 import (
 	"github.com/diamondburned/arikawa/v3/api"
